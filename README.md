@@ -68,17 +68,6 @@ Currently building hands-on projects, solving CTF labs, and documenting my learn
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![Feizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunkpie&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chunkpie&layout=compact&theme=tokyonight)
-
-
----
-
 ## 🤝 Connect With Me
 
 - LinkedIn → https://www.linkedin.com/in/feizan  
