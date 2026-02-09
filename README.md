@@ -1,16 +1,92 @@
-## Hi there 👋
+## Hi there 👋 I'm Feizan Khan
 
-<!--
-**Chunkpie/Chunkpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring Cybersecurity Professional  
+🌐 Networking & Ethical Hacking Enthusiast  
+🐧 Linux & Security Labs Explorer  
 
-Here are some ideas to get you started:
+I’m passionate about cybersecurity, penetration testing, and securing real-world systems.  
+Currently building hands-on projects, solving CTF labs, and documenting my learning journey here on GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Student (Science + Maths)
+- 🔭 Currently working on: Cybersecurity Labs & Security Projects
+- 🌱 Currently learning: Advanced Networking & Penetration Testing
+- 🧠 Exploring: Red Teaming, System Security, Linux Hardening
+- 🎯 Goal: Become a Professional Penetration Tester
+
+---
+
+## 🛠️ Skills & Tools
+
+**Cybersecurity**
+- Penetration Testing  
+- Vulnerability Assessment  
+- Network Security  
+- Web Application Security  
+
+**Networking**
+- CCNA Level Networking  
+- Routing & Switching  
+- Network Troubleshooting  
+
+**Tools & Tech**
+- Kali Linux 🐉  
+- Nmap  
+- Wireshark  
+- Metasploit  
+- Burp Suite  
+- Linux CLI  
+
+---
+
+## 📜 Certifications
+
+- CCNA  
+- CCNP  
+- Ethical Hacking  
+- Certified Cyber Expert  
+
+---
+
+## 🧪 Labs & Platforms
+
+- TryHackMe → https://tryhackme.com/p/iblamefaiz  
+- CTF Challenges  
+- Custom Security Labs  
+
+---
+
+## 📂 Featured Projects
+
+- 🔐 Cybersecurity Labs Documentation  
+- 🌐 Networking Config Labs  
+- 🐧 Linux Hardening Projects  
+- 🛠️ Security Tools Practice  
+
+---
+
+## 📊 GitHub Stats
+
+![Feizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chunkpie&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chunkpie&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn → https://www.linkedin.com/in/feizan  
+- TryHackMe → https://tryhackme.com/p/iblamefaiz  
+
+---
+
+## ⚡ Fun Fact
+
+> I break systems to learn how to secure them 🛡️
+
+---
+
+⭐️ From [Feizan Khan](https://github.com/Chunkpie)
