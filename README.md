@@ -11,7 +11,7 @@ Currently building hands-on projects, solving CTF labs, and documenting my learn
 
 ## 🚀 About Me
 
-- 🎓 Student (Science + Maths)
+- 🎓 Self Learning Cyber Security Student 
 - 🔭 Currently working on: Cybersecurity Labs & Security Projects
 - 🌱 Currently learning: Advanced Networking & Penetration Testing
 - 🧠 Exploring: Red Teaming, System Security, Linux Hardening
