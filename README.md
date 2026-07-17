@@ -1,25 +1,25 @@
 ## Hi there 👋 I'm Feizan Khan
 
-🔐 Aspiring Cybersecurity Professional  
-🌐 Networking & Ethical Hacking Enthusiast  
-🐧 Linux & Security Labs Explorer  
+ Aspiring Cybersecurity Professional  
+ Networking & Ethical Hacking Enthusiast  
+ Linux & Security Labs Explorer  
 
 I’m passionate about cybersecurity, penetration testing, and securing real-world systems.  
 Currently building hands-on projects, solving CTF labs, and documenting my learning journey here on GitHub.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Self Learning Cyber Security Student 
-- 🔭 Currently working on: Cybersecurity Labs & Security Projects
-- 🌱 Currently learning: Advanced Networking & Penetration Testing
-- 🧠 Exploring: Red Teaming, System Security, Linux Hardening
-- 🎯 Goal: Become a Professional Penetration Tester
+-  Self Learning Cyber Security Student 
+-  Currently working on: Cybersecurity Labs & Security Projects
+-  Currently learning: Advanced Networking & Penetration Testing
+-  Exploring: Red Teaming, System Security, Linux Hardening
+-  Goal: Become a Professional Penetration Tester
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 **Cybersecurity**
 - Penetration Testing  
@@ -33,7 +33,7 @@ Currently building hands-on projects, solving CTF labs, and documenting my learn
 - Network Troubleshooting  
 
 **Tools & Tech**
-- Kali Linux 🐉  
+- Kali Linux  
 - Nmap  
 - Wireshark  
 - Metasploit  
@@ -42,7 +42,7 @@ Currently building hands-on projects, solving CTF labs, and documenting my learn
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - CCNA  
 - CCNP  
@@ -51,7 +51,7 @@ Currently building hands-on projects, solving CTF labs, and documenting my learn
 
 ---
 
-## 🧪 Labs & Platforms
+##  Labs & Platforms
 
 - TryHackMe → https://tryhackme.com/p/iblamefaiz  
 - CTF Challenges  
@@ -59,25 +59,25 @@ Currently building hands-on projects, solving CTF labs, and documenting my learn
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-- 🔐 Cybersecurity Labs Documentation  
-- 🌐 Networking Config Labs  
-- 🐧 Linux Hardening Projects  
-- 🛠️ Security Tools Practice  
+-  Cybersecurity Labs Documentation  
+-  Networking Config Labs  
+-  Linux Hardening Projects  
+-  Security Tools Practice  
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - LinkedIn → https://www.linkedin.com/in/feizan  
 - TryHackMe → https://tryhackme.com/p/iblamefaiz  
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
-> I break systems to learn how to secure them 🛡️
+> I break systems to learn how to secure them 
 
 ---
 
